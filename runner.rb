@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'miniql'
+require 'minigl'
 
 require_relative 'config'
 require_relative 'game'
